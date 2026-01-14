@@ -10,11 +10,6 @@
    - [3. Team Ownership](#3-teams-should-own-their-software)
    - [4. Cognitive Load Management](#4-cognitive-load)
    - [5. Tuckman's Team Performance Model](#5-tuckmans-team-performance-model)
-3. [Implementation Guide](#implementation-guide)
-4. [Common Challenges & Solutions](#common-challenges--solutions)
-5. [Assessment Checklists](#assessment-checklists)
-6. [Glossary](#glossary)
-7. [References](#references)
 
 ---
 
